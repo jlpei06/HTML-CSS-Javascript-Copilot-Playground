@@ -49,8 +49,8 @@
   
   /* Hero */
   .hero {
-    <img src="images/Spiced\ Chia\ Pudding.jpg"
-    <style>
+    background-image: url("images/Spiced%20Chia%20Pudding.jpg");
+        <style>
     img {
       max-width: 100%;
       height: auto;

@@ -3,8 +3,8 @@ console.log("Landing page loaded");
 </body>
 </html>
 <section class="ingredients">
-  <h2>Ingredients</h2>
- 
+<h2 style="color: #4B2E2E; text-indent: 40px;">Ingredients</h2>
+  <div style="margin-left: 40px;">
       <ul>
         <li>1/2 cup chia seeds</li>
         <li>15 oz light coconut milk (1 can)</li>
@@ -24,18 +24,19 @@ console.log("Landing page loaded");
   </ul>
 </section>
 <section class="ingredients">
-<h2>Directions</h2>
+<h2 style="color: #4B2E2E; text-indent: 40px;">Directions</h2>
+<div style="margin-left: 70px;">
 
-<div style="margin-left: 30px;">
-
-1. In a large bowl, mix all ingredients together for 5 minutes.  
+1. In a large bowl, mix all ingredients together, stirring continuously for 5 minutes.  
 <br>
 2. Let sit for 5 minutes.  
 <br>
-3. Stir again to prevent clumping.  
+3. Stir again to prevent clumping. 
 <br>
-4. Refrigerate for at least 4 hours or overnight.  
+4. Transfer each portion to an individual jar.
 <br>
-5. Top with fruit and enjoy!
+5. Refrigerate for at least 6 hours or overnight.  
+<br>
+6. Top with fruit and enjoy!
 
 </div>

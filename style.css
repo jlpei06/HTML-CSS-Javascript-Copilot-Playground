@@ -78,7 +78,7 @@
   /* Hero */
   .hero {
     background-image: url("images/Spiced-Chia-Pudding1.jpg");
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   height: 1500px;

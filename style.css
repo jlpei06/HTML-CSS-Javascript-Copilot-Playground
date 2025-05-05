@@ -50,7 +50,13 @@
   /* Hero */
   .hero {
     <img src="images/Spiced\ Chia\ Pudding.jpg"
-
+    <style>
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+  </style>
       
     height: 90vh;
     display: flex;

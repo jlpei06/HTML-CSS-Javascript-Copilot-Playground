@@ -49,11 +49,11 @@
   
   /* Hero */
   .hero {
-    background-image: url("images/Spiced-Chia-Pudding.jpg");
+    background-image: url("images/Spiced-Chia-Pudding1.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 600px;
+  height: 800px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -82,6 +82,7 @@
   .btn {
     background-color: #00754a;
     color: white;
+    font-size: 18px;
     padding: 0.75rem 2rem;
     border: none;
     border-radius: 8px;

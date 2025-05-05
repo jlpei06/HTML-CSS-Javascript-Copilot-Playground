@@ -49,11 +49,7 @@
   
   /* Hero */
     .hero {
-      background: url('Spiced\ Chia\ Pudding') no-repeat center center/cover;
-     
-    }
-  </style>
-      
+    background: url("images/Spiced-Chia-Pudding.jpg") no-repeat center center/cover;
     height: 120vh;
     display: flex;
     align-items: center;
